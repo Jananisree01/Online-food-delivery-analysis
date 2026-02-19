@@ -50,23 +50,33 @@ Raw Dataset → Data Cleaning (Python) → MySQL Database → SQL Analysis → I
 
 4\. Interactive Dashboard using Streamlit
 
+Key Analysis Performed
 
+ Customer Analysis
+- Top spending customers
+- Age group vs average order value
 
-&nbsp;***Key Insights***
+ Revenue & Profit Analysis
+- Monthly revenue trends
+- City-wise revenue
+- Cuisine-wise performance
+- Impact of discounts on profit margin
 
+ Delivery Performance
+- Delivery time by city
+- Delivery rating vs delivery time
+- Distance vs delivery time
 
+ Restaurant Performance
+- Top rated restaurants
+- Cuisine-wise rating analysis
 
-\- Revenue varies by city and cuisine
+ Operational Insights
+- Peak hour demand
+- Payment mode preference
+- Cancellation analysis
 
-\- Delivery time affects customer ratings
-
-\- Discounts impact profit margin
-
-\- Peak hours have highest order volume
-
-
-
-&nbsp;***How to Run the Dashboard***
+***How to Run the Dashboard***
 
 
 
@@ -86,7 +96,8 @@ streamlit run app.py
 
 
 
-&nbsp;Author
+Author
 
 Janani Sree
+
 
